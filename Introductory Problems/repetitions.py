@@ -11,4 +11,5 @@ while b < len(dna):
 
     b += 1
 
+x = max(x, b-a)
 print(x)
